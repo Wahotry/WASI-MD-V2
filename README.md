@@ -1,15 +1,15 @@
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
+  <a href="https://wa.me/+923427630911">
     <img alt="wasi" height="300" src="https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg">
-    <h1 align="center">WASI MD V2</h1>
+    <h1 align="center">WAHAB MD V2</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Wahotry"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://wa.me+923427630911"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923427630911"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-V2?&style=social"></a>
+<a href="https://github.com/Wahotry?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
+<a href="https://github.com/Wahotry/WASI-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-V2?&style=social"></a>
 <a href="https://github.com/Itxxwasi/WASI-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/WASI-MD-V2?style=social"></a>
 <a href="https://github.com/Itxxwasi/WASI-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/WASI-MD-V2?label=Watching&style=social"></a>
 </p>
@@ -22,23 +22,21 @@ Welcome to my awesome project! Here you'll find...
 
 Check out my YouTube channel for tutorials and more!
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@wasitech1)
+[![Whatsapp Channel](https://wa.me/+923427630911)
 ## WhatsApp Channel
 
 Join our WhatsApp channel for updates and discussions!
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j)
 ## WhatsApp Support Group
 
-Join our WhatsApp support group for assistance and discussions!
+!
 
-[![WhatsApp Support Group](https://img.shields.io/badge/Join-WhatsApp%20Support%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Dd2RCJsumFWBfQ6290pDy8)
 
 #### SETUP
 
 1.𝔽𝕠𝕣𝕜 𝕥𝕙𝕖 𝕣𝕖𝕡𝕠
     <br>
-<a href='https://github.com/Itxxwasi/WASI-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+<a href='https://github.com/Wahotry/WASI-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 
 
