@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://wa.me/+923427630911">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg">
+    <img alt="wasi" height="300" src="https://i.imgur.com/HHart12.jpeg">
     <h1 align="center">WAHAB MD V2</h1>
   </a>
 </p>
